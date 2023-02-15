@@ -348,24 +348,45 @@ public class MyLibTests
 
 
 
+/*
+
+
+
+                                              ███████████ █████   █████ ██████████
+                                             ░█░░░███░░░█░░███   ░░███ ░░███░░░░░█
+                                             ░   ░███  ░  ░███    ░███  ░███  █ ░
+                                                 ░███     ░███████████  ░██████
+                                                 ░███     ░███░░░░░███  ░███░░█
+                                                 ░███     ░███    ░███  ░███ ░   █
+                                                 █████    █████   █████ ██████████
+                                                ░░░░░    ░░░░░   ░░░░░ ░░░░░░░░░░
+
+
+
+                                     █████       █████ ██████   █████ █████   ████  █████████
+                                    ░░███       ░░███ ░░██████ ░░███ ░░███   ███░  ███░░░░░███
+                                     ░███        ░███  ░███░███ ░███  ░███  ███   ░███    ░░░
+                                     ░███        ░███  ░███░░███░███  ░███████    ░░█████████
+                                     ░███        ░███  ░███ ░░██████  ░███░░███    ░░░░░░░░███
+                                     ░███      █ ░███  ░███  ░░█████  ░███ ░░███   ███    ░███
+                                     ███████████ █████ █████  ░░█████ █████ ░░████░░█████████
+                                    ░░░░░░░░░░░ ░░░░░ ░░░░░    ░░░░░ ░░░░░   ░░░░  ░░░░░░░░░
 
 
 
 
 
+[What is Property Based Testing? - Hypothesis](https://hypothesis.works/articles/what-is-property-based-testing/)
+[FsCheck: Random Testing for .NET] (https://fscheck.github.io/FsCheck/)
+[Writing Better Tests Than Humans Can Part 1: FsCheck Property Tests in C# – Aaronontheweb (aaronstannard.com)](https://aaronstannard.com/fscheck-property-testing-csharp-part1/)
+[Property-Based Testing with C# | Codit](https://www.codit.eu/blog/property-based-testing-with-c/)
 
 
 
+[brase/propertybasedtesting (github.com)](https://github.com/brase/propertybasedtesting)
 
 
-//[FsCheck: Random Testing for .NET] (https://fscheck.github.io/FsCheck/)
-
-//[Writing Better Tests Than Humans Can Part 1: FsCheck Property Tests in C# – Aaronontheweb (aaronstannard.com)](https://aaronstannard.com/fscheck-property-testing-csharp-part1/)
-//[Property-Based Testing with C# | Codit](https://www.codit.eu/blog/property-based-testing-with-c/)
-
-
-
-
+*/
 
 
 
